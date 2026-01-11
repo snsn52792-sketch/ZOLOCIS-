@@ -1,1 +1,1 @@
-ZOLOCIS  2.0
+ZOLOCIS  3.0
