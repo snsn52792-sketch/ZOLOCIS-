@@ -1,1 +1,1 @@
-ZOLOCIS  2.4
+ZOLOCIS  2.5
